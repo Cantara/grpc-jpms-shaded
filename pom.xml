@@ -19,7 +19,6 @@
         <module>grpc-shaded</module>
         <module>grpc-shaded-jpms</module>
     </modules>
-<!--
 
     <repositories>
         <repository>
@@ -46,9 +45,5 @@
             <url>https://mvnrepo.cantara.no/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
-
--->
 </project>
-
-
 
