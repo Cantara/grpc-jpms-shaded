@@ -4,7 +4,7 @@
 
     <groupId>com.exoreaction.xorcery</groupId>
     <artifactId>grpc-jpms-shaded</artifactId>
-    <version>1.61.1.0-SNAPSHOT</version>
+    <version>1.61.1.0</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -17,7 +17,7 @@
         <developerConnection>scm:git:ssh://git@github.com/Cantara/grpc-jpms-shaded.git</developerConnection>
         <connection>scm:git:https://github.com/Cantara/grpc-jpms-shaded.git</connection>
         <url>https://github.com/Cantara/grpc-jpms-shaded</url>
-        <tag>HEAD</tag>
+        <tag>grpc-jpms-shaded-1.61.1.0</tag>
     </scm>
 
     <dependencies>
